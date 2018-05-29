@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LunchMeet</string>
+    <string name="title_activity_maps">LunchMeet</string>
+    <string name="facebook_app_id">148732289207865</string>
+    <string name="fb_login_protocol_scheme">fb148732289207865</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="title_activity_dbtest">DBTestActivity</string>
+
+
+    <string name="leader">👑</string>
+    <string name="createGroup">Create Group</string>
+    <string name="dissolveGroup">Dissolve Group</string>
+    <string name="title_activity_message">MessageActivity</string>
+    <string name="leaveGroup">Leave Group</string>
+</resources>
